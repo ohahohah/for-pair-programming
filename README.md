@@ -8,7 +8,7 @@
     ```bash
     git log -g --grep='LOG:'
     ```
-  - [Github 웹페이지에서 보기]()
+  - [Github 웹페이지에서 보기](https://github.com/ohahohah/for-pair-programming/commits/main)
 - 참여자 중 누구 한 명이라도 원치 않으면 로그를 남기지 않아요.
 - pair는 우리 작업. 존중 Yeah - We are the world 🌏 
 
@@ -42,3 +42,13 @@
     - 설치되어있음 : VScode (Live share), Online IDE 는 미리 알려주면 세팅이 가능해요.
   - 기타 tool : Zoom, Google meet, Discord, Slack 
 </details>
+
+## Contributing
+- pair-programming 같이 해주신 모든 분들
+  - 박정수님, Marting Hwang
+
+## Links
+- Repository: https://github.com/ohahohah/for-pair-programming
+
+## License
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
